@@ -1,5 +1,11 @@
 # Machine-Learning---Projeto-2
 
+## Proposta
+
+Projeto para avaliar
+
+
+## Dados
 Os dados utilizados neste projeto são do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST). 
 
 A ferramenta é administrada pelo governo brasileiro para compilar dados sobre acidentes de trânsito em todo o país. Esses dados são fundamentais para a formulação de políticas de segurança viária e iniciativas de prevenção, visando diminuir a incidência de acidentes e suas graves consequências.
