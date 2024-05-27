@@ -13,4 +13,8 @@ A ferramenta é administrada pelo governo brasileiro para compilar dados sobre a
 Através do RENAEST, informações detalhadas sobre cada incidente são disponibilizadas, o que permite uma avaliação precisa das causas e fatores contribuintes, ajudando a entender melhor as dinâmicas de trânsito e a implementar medidas efetivas de segurança e regulamentação em nível nacional.
 
 
+
+
 #### acesso aos dados: https://drive.google.com/file/d/1DcIIsMBC-pVj7AGqxow2qE_kTlz20p8Y/view?amp;usp=embed_facebook
+
+#### obtido : https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/registro-nacional-de-acidentes-e-estatisticas-de-transito
