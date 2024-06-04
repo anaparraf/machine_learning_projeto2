@@ -1,6 +1,7 @@
 # Machine-Learning---Projeto-2
 
 Vídeo do projeto: https://youtu.be/tJDaAkuTQHk 
+Link do repositório: https://github.com/anaparraf/machine_learning_projeto2 
 
 ## Dados
 Os dados utilizados neste projeto são do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST). 
