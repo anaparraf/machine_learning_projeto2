@@ -1,9 +1,6 @@
 # Machine-Learning---Projeto-2
 
-## Proposta
-
-Projeto para avaliar
-
+Vídeo do projeto: https://youtu.be/tJDaAkuTQHk 
 
 ## Dados
 Os dados utilizados neste projeto são do Registro Nacional de Acidentes e Estatísticas de Trânsito (RENAEST). 
@@ -18,3 +15,8 @@ Através do RENAEST, informações detalhadas sobre cada incidente são disponib
 #### acesso aos dados: https://drive.google.com/file/d/1DcIIsMBC-pVj7AGqxow2qE_kTlz20p8Y/view?amp;usp=embed_facebook
 
 #### obtido : https://www.gov.br/transportes/pt-br/assuntos/transito/conteudo-Senatran/registro-nacional-de-acidentes-e-estatisticas-de-transito
+
+
+## O projeto
+
+Este projeto busca utilizar uma regressão linear para prever a quantidade de envolvidos nos acidentes. Ao longo no notebook (main.py), foi descrito e detalhado as ferramentas utilizadas.
